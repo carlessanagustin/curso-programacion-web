@@ -12,11 +12,11 @@ A lo largo de este curso veremos: HTML5, CSS3, JavaScript, Jquery, MySQL, WordPr
 
 # Plan de estudios
 
-- [ ] [Ejercicio 1](ejercicio_001.md). Web básica HTML5 y CSS3
-- [ ] [Ejercicio 2](ejercicio_002.md). ---
+- [ ] [Ejercicio 1](001/). Web básica HTML5 y CSS3
+- [ ] [Ejercicio 2](002/). ---
 
 ---
 
-*Creado por carlessanagustin.com*
+*Creado por [carlessanagustin.com](http://www.carlessanagustin.com)*
 
 **Usad y compartir por favor!**
