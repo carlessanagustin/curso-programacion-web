@@ -1,8 +1,4 @@
-# Curso de programación web
-
---- *Creado por carlessanagustin.com* ---
-
-# Objetivo
+# Curso de programación web: Objetivo
 
 Este curso esta compuesto de varios ejercicios prácticos. La descripción de estos ejercicios se encuentra en el siguiente enunciado. Cada alumno deberá documentarse vía Internet para entender y realizar estos ejercicios. Ya se especifican enlaces de documentación en los mismos ejercicios pero se aconseja [buscar](https://www.google.com/) independientemente otros recursos si así es necesario.
 
@@ -12,7 +8,7 @@ Este curso pretende dar a conocer los conceptos principales de la programación 
 
 A lo largo de este curso veremos: HTML5, CSS3, JavaScript, Jquery, MySQL, WordPress, XAMPP, ...
 
-Empecemos!
+**Empecemos!**
 
 # Plan de estudios
 
@@ -20,5 +16,7 @@ Empecemos!
 - [ ] [Ejercicio 2](ejercicio_002.md). ---
 
 ---
+
+*Creado por carlessanagustin.com*
 
 **Usad y compartir por favor!**
