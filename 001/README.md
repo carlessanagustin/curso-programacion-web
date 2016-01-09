@@ -13,7 +13,7 @@ Deberéis estructurar correctamente los ficheros y carpetas. También deberéis 
 
 ## Arquitectura deseada
 
-![Esqueleto](001/skeleton.jpg)
+![Esqueleto](skeleton.jpg)
 
 Este diagrama ilustra el esqueleto básico deseado. Este esta compuesto de:
 
