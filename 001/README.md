@@ -25,12 +25,12 @@ Este diagrama ilustra el esqueleto básico deseado. Este esta compuesto de:
 
 ## Herramientas
 
-### Para crear el esqueleto podéis usar
+### Para crear la ARQUITECTURA y MAQUETACIÓN podéis usar
 
-* Opción 1: HTML5
-* Opción 2: Framework HTML5 como http://getbootstrap.com/
+* Opción 1: HTML5 + CSS3
+* Opción 2: Framework HTML5/CSS3 - http://getbootstrap.com/
 
-### Para crear el contenido podéis usar
+### Para crear el CONTENIDO podéis usar
 
 #### Imágenes
 
@@ -38,7 +38,7 @@ Este diagrama ilustra el esqueleto básico deseado. Este esta compuesto de:
 * Opción 2: http://fakeimg.pl/
 * Opción 3: http://placehold.it/
 
-#### Texto
+#### Textos
 
 * Opción 1: Tu texto personalizado.
 * Opción 2: http://es.lipsum.com/
