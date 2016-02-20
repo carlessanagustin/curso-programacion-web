@@ -14,10 +14,11 @@ A lo largo de este curso veremos: HTML5, CSS3, JavaScript, Jquery, MySQL, WordPr
 
 - [ ] [Ejercicio 1](001/). Web básica HTML5 y CSS3.
 - [ ] [Ejercicio 2](002/). Web de Muebles Anacleto.
-- [ ] [Ejercicio 3](003/). ---
+- [ ] [Ejercicio 3](003/). Maquetación en CSS3
+- [ ] [Ejercicio 4](004/). ???
 
 ---
 
-*Creado por [carlessanagustin.com](http://www.carlessanagustin.com)*
-
 **Usad y compartir por favor!**
+
+*Creado por [carlessanagustin.com](http://www.carlessanagustin.com)*
