@@ -1,4 +1,4 @@
-# Ejercicio 3
+# Ejercicio 4
 
 ## Objetivos
 
@@ -15,37 +15,52 @@ Se trata de un trabajo intenso de maquetación CSS3.
 
 ## Diseño deseado
 
-Este es el diseño de la página deseado.
-
-[![arquitectura](html.png)](html.png)
-
 Deberá incluir los siguientes ficheros:
 
 * index.html
+* left-sidebar.html
+* right-sidebar.html
+* no-sidebar.html
 * aquellos ficheros *.css necesarios
 * estructura de ficheros y carpetas organizada y lógica
+* usar los ficheros de la carpeta [*fonts*](./recursos/fonts)
 
-Como referencia para los tamaños tenemos la siguiente imagen:
+Este es el diseño de la página deseado.
 
-[![referencia](size-reference.png)](size-reference.png)
+### Home
 
-Cada cuadrado es de 345 píxeles horizontales por 244 píxeles verticales.
+[![Home](01-Home.png)](01-Home.png)
+
+### Left Sidebar
+
+[![Left_Sidebar](02-Left_Sidebar.png)](02-Left_Sidebar.png)
+
+### Right Sidebar
+
+[![Right_Sidebar](03-Right_Sidebar.png)](03-Right_Sidebar.png)
+
+### No Sidebar
+
+[![No_Sidebar](04-No_Sidebar.png)](04-No_Sidebar.png)
 
 ## Recursos
 
 * La carpeta [*recursos*](./recursos) incluida en esta página.
+* Como referencia para los tamaños tenemos la siguiente imagen:
+
+[![referencia](size_reference.png)](size_reference.png)
+
+### Fonts
+
 * http://fontawesome.io/
-* https://www.google.com/fonts/specimen/Raleway
-* https://unsplash.com/
+* Otras posibilidades:
 
-## Herramientas
-
-[Add-ons](https://addons.mozilla.org) para el navegar [Firefox](https://www.mozilla.org/es-ES/firefox/products/)
-
-* https://addons.mozilla.org/en-US/firefox/addon/measureit/
-* https://addons.mozilla.org/en-US/firefox/addon/web-developer/
-* https://addons.mozilla.org/en-US/firefox/addon/colorzilla/
-* https://addons.mozilla.org/en-US/firefox/addon/firebug/
+```css
+font-family: "Roboto", Helvetica, sans-serif;
+font-family: "Courier New", monospace;
+font-family: sans-serif;
+font-family: monospace;
+```
 
 ## Ayuda
 
@@ -65,3 +80,6 @@ Otros recursos:
 * http://www.shutterstock.com/es/
 * https://www.google.com/fonts
 * http://www.fontsquirrel.com/
+* https://addons.mozilla.org
+* http://fontawesome.io/
+* https://unsplash.com/
